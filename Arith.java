@@ -1,5 +1,5 @@
 import java.util.*;
-class Asfar
+class Asfarr
 {
 	void sum(int x,int y)
 	{
@@ -25,7 +25,7 @@ class Arith
 		System.out.println("Enter the two values to get all result");
 		int a=sc.nextInt();
 		int b=sc.nextInt();
-		Asfar obj=new Asfar();
+		Asfarr obj=new Asfarr();
 		obj.sum(a,b);
 		obj.sub(a,b);
 		obj.mul(a,b);
